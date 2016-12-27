@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringMVC-AngularJS-Inventory.iml" filepath="$PROJECT_DIR$/SpringMVC-AngularJS-Inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-Inventory.iml" filepath="$PROJECT_DIR$/SpringMVC-Inventory.iml" />
     </modules>
   </component>
 </project>

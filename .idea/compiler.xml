@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="SpringMVC-AngularJS-Inventory" />
+        <module name="SpringMVC-Inventory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SpringMVC-AngularJS-Inventory" target="1.5" />
+      <module name="SpringMVC-Inventory" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
